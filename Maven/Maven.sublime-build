@@ -1,5 +1,6 @@
 {
 	"target": "maven_goals",
-	"file_regex":"^[ ]*File \"(...*?)\", line ([0-9]*)",
-	"selector":"source.scala|source.java"
+	"working_dir": "${project_path:${folder}}"
+	//"file_regex":"^\\[ERROR\\]"
+	//"selector":"source.scala|source.java|source.xml"
 }
