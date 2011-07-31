@@ -1,3 +1,4 @@
-== Maven Sublime Text 2 Plugin
+## Maven Sublime Text 2 Plugin
 
-=== Installation
+### Installation
+Copy Maven folder to ~/Library/Application Support/Sublime Text 2/Packages directory

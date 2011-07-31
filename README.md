@@ -1,7 +1,9 @@
-= Hangar88.org Sublime Text 2 Plugin Collection
+# Hangar88.org Sublime Text 2 Plugin Collection
 
-== Plugin List
+
+## Plugin List
  * Simple Maven Build Plugin
 
-== Planned 
+
+## Planned 
  [TBD]
