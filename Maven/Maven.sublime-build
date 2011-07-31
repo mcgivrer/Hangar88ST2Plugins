@@ -1,0 +1,5 @@
+{
+	"target": "maven_goals",
+	"file_regex":"^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector":"source.scala|source.java"
+}
