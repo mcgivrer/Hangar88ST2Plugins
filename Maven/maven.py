@@ -9,7 +9,7 @@ class MavenGoalsCommand(sublime_plugin.WindowCommand):
 		self.cmd = [cmd]
 		self.wrkDir = working_dir
 		#print self.wrkDir
-		self.window.show_input_panel("mvn",'',self.on_done,None,None)
+		self.window.show_input_panel("Maven goal(s):",'',self.on_done,None,None)
 
 	def on_done(self, text):
 		self.cmd += [u'-B']
